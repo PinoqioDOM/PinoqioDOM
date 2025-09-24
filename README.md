@@ -1,6 +1,6 @@
 # Hi, I'm PinoqioDOM
 
-A passionate Fullstack Developer from [Your Country/City]
+Just Chill Coding Guy 💻
 
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
