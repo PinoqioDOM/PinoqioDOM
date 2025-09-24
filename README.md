@@ -2,14 +2,14 @@
 
 <strong>JUST A CHILL GUY WHO LOVES CODING</strong> 💻
 
-![Coding Gif]<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt2ODJtajlmY3Vkbzc4dDJyZjZhdjBuNXJvNzFmOGQ5eGF1dDA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt2ODJtajlmY3Vkbzc4dDJyZjZhdjBuNXJvNzFmOGQ5eGF1dDA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=PinoqioDOM)
+(https://komarev.com/ghpvc/?username=PinoqioDOM)
 ---
 ## 📊 GitHub Stats
 
-![PinoqioDOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinoqioDOM&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PinoqioDOM&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-readme-stats.vercel.app/api?username=PinoqioDOM&show_icons=true&theme=radical)
+(https://github-profile-trophy.vercel.app/?username=PinoqioDOM&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ## Languages and Tools
 <p align="left">
