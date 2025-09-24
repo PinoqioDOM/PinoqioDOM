@@ -1,8 +1,8 @@
 # Hi, I'm PinoqioDOM
 
-Just Chill Coding Guy 💻
+A passionate Fullstack Developer from [Your Country/City]
 
-![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt2ODJtajlmY3Vkbzc4dDJyZjZhdjBuNXJvNzFmOGQ5eGF1dDA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PinoqioDOM)
 
@@ -11,8 +11,6 @@ Just Chill Coding Guy 💻
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
 ---
 
@@ -43,7 +41,7 @@ Just Chill Coding Guy 💻
 
 ## 🛠️ Tech Stack
 
-JavaScript | TypeScript | Python | Next.js | React | Node.js | Docker
+JavaScript | TypeScript | Next.js | React | Postman |
 
 ---
 
@@ -53,13 +51,3 @@ JavaScript | TypeScript | Python | Next.js | React | Node.js | Docker
 [![trophy](https://github-profile-trophy.vercel.app/?username=PinoqioDOM&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-## 🌱 What I'm Working On
-
-- Robust web apps
-- Project management solutions
-- Improving UX
-
----
-
-Thanks for visiting! 🚀
