@@ -1,6 +1,6 @@
 # Hi, I'm PinoqioDOM
 
-A passionate Fullstack Developer from [Your Country/City]
+A passionate Fullstack Developer from Georgia
 
 ![Coding Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt2ODJtajlmY3Vkbzc4dDJyZjZhdjBuNXJvNzFmOGQ5eGF1dDA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
 
@@ -10,38 +10,22 @@ A passionate Fullstack Developer from [Your Country/City]
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tornike-alxanishvili-58485b318)
 
 ---
 
 ## Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<!-- Add more icons as needed -->
-
----
-
-## 🚀 Featured Projects
-
-- [Next-text](https://github.com/PinoqioDOM/Next-text) — Modern Next.js text editor
-- [Team-Project-Management-](https://github.com/PinoqioDOM/Team-Project-Management-) — Simple project management
-- [E-commerce](https://github.com/PinoqioDOM/E-commerce) — Full-featured e-commerce platform
-- [hr-thoth](https://github.com/Octarinox/hr-thoth) — HR analytics & automation
-- [tornike-alkhanishvili](https://github.com/Codevelop-Technologies-Hiring/tornike-alkhanishvili) — Codevelop collaboration
-
----
-
-## 🛠️ Tech Stack
-
-JavaScript | TypeScript | Next.js | React | Postman |
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+</p>
 
 ---
 
