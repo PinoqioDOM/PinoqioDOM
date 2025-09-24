@@ -1,4 +1,4 @@
-# Hi, I'm PinoqioDOM
+# PinoqioDOM
 
 **JUST A CHILL GUY WHO LOVES CODING** 💻
 
@@ -23,5 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
 </p>
----
-
