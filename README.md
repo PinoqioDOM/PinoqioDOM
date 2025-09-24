@@ -1,8 +1,8 @@
 # Hi, I'm PinoqioDOM
 
-JUST A CHILL GUY WHO LOVES CODING 💻
+<strong>JUST A CHILL GUY WHO LOVES CODING</strong> 💻
 
-![Coding Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt2ODJtajlmY3Vkbzc4dDJyZjZhdjBuNXJvNzFmOGQ5eGF1dDA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
+![Coding Gif]<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt2ODJtajlmY3Vkbzc4dDJyZjZhdjBuNXJvNzFmOGQ5eGF1dDA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PinoqioDOM)
 ---
