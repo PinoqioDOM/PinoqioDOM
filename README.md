@@ -6,12 +6,12 @@ JUST A CHILL GUY WHO LOVES CODING 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PinoqioDOM)
 ---
-## Connect with me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tornike-alxanishvili-58485b318)
+![PinoqioDOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinoqioDOM&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PinoqioDOM&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ## Languages and Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
@@ -20,11 +20,7 @@ JUST A CHILL GUY WHO LOVES CODING 💻
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)" width="50" />
 </p>
 ---
-## 📊 GitHub Stats
 
-![PinoqioDOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinoqioDOM&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PinoqioDOM&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
----
